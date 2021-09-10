@@ -1,4 +1,4 @@
-# PHYS490
+# PHYS449 Machine Learning in Physics
 
 - name: *your name*
 - student ID: *your student ID*
@@ -8,7 +8,7 @@
 - how to use `git` and github: [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - copy paste this template as your github repo
   1. click the green button **Use this template** in this page
-  2. name your repo as `PHYS490`
+  2. name your repo as `PHYS449`
   3. click the green button **Create repository from template**
 - managing dependencies
   - you can list your dependencies in the `README.md` of each folder
