@@ -1,4 +1,5 @@
-# PHYS-449-Assignment-Template
+# PHYS 449 Assignments
 
 Name:
+
 Student ID:
